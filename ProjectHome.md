@@ -1,0 +1,1 @@
+TJ3Sat (TJ Cubesat) is slated to be the first high school satellite in history. Currently we are manifested for launch in Spring 2012, and will shortly be entering the Integration and Test stage to prepare the satellite for flight.
